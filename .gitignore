@@ -1,0 +1,41 @@
+# Eclipse
+.classpath
+.metadata
+.project
+.settings/
+
+# Intellij
+.idea/
+*.idea/
+*.iml
+*.iws
+
+# Compiled class file
+*.class
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+*.versionsBackup
+
+# gradle
+.gradle
+
+# Properties files
+build/
+usage.json
+
+# Log file
+*.log
+
+# Package Files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
